@@ -1,0 +1,99 @@
+.header
+{
+    position: default;
+    margin-top:20px;
+    margin-bottom: 10px
+    margin-left: 50px;
+    margin-right:200px;
+    }
+.date{
+    text-align:left;
+	margin-left: 50px;
+	padding-bottom: 10px;
+	font-size: 10px;
+	font-weight: bold;
+	margin-top:0px;
+}
+.title{
+	text-align:center;
+    margin-top:-30px;
+    font-weight: bold;
+	font-size:10px;
+}
+body {
+	border-style: solid;
+	margin-left: 50px;
+	margin-right:200px;
+}
+.name {
+	float: left;
+	margin-left: 50px;
+	margin-top:0px;
+	margin-right:200px;
+}
+.r_name{
+	font-weight: bold;
+    text-align:left;
+	font-size: 30px;
+	color: #A16D17;
+}
+.sub_name{
+	font-size:18px;
+	color: #A6A6A6;
+}
+.workExperience
+{
+	float: left;
+	margin-left: 50px;
+	margin-right: 200px;
+	margin-top:0px;
+}
+.projects
+{
+    float: left;
+	margin-left: 50px;
+	margin-top:0px;
+	margin-right: 200px;
+}
+td
+{
+	color: #A6A6A6;
+	padding-top: -40px;
+    padding-right:120px;
+}
+.r_desc{
+	color: #A6A6A6;
+	margin-top:0px;
+	font-style: italic;
+}
+.workClient{
+    color: #11A1D9;
+    font-weight:bold;
+    margin-top:0px;
+}
+.education{
+  margin-right: 200px;  
+  margin-left: 50px;
+  margin-top:0px;
+}
+.projectTitle
+{
+	margin-top:0px;
+	color: #11A1D9;
+	font-weight:bold;
+}
+.footer{
+  margin-left: 50px;
+  margin-right: 200px;
+  margin-top:0px;
+}
+.images{	   
+  margin-left: 50px;
+  margin-right: 200px;
+  margin-top:0px;
+}
+.map{	   
+  margin-left: 50px;
+  margin-right: 200px;
+  margin-top:0px;
+}
